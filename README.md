@@ -1,4 +1,4 @@
-# CNN Labs with PyTorch
+# CNN Labs with PyTorch 
 
 This repository contains two practical sessions on Convolutional Neural Networks.  
 The labs explore both **training CNNs from scratch** and interpretability : **understanding CNNs with visualization (Deep Dream) and adversarial examples**.
